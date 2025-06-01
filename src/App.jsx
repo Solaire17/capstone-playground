@@ -23,11 +23,21 @@ function App() {
         if (currentModel) {
           test.scene.remove(currentModel);
         }
-
+    
         const model = gltf.scene;
+        const box = new THREE.Box3().setFromObject(model);
+        const size = new THREE.Vector3();
+        box.getSize(size);
+    
+        // Choose a uniform target size
+        const targetSize = 10; // Adjust as needed
+        const maxDim = Math.max(size.x, size.y, size.z);
+        const scale = targetSize / maxDim;
+    
+        model.scale.setScalar(scale); // Uniform scaling
         model.rotation.y = Math.PI / 8;
         model.position.y = 3;
-        model.scale.set(10, 10, 10);
+    
         test.scene.add(model);
         currentModel = model;
       });
@@ -40,7 +50,7 @@ function App() {
       loadModel(modelPaths[modelIndex]);
     }, 2000);
 
-    return () => clearInterval(intervalId); // cleanup on unmount
+    return () => clearInterval(intervalId);n
   }, []);
 
   return (
