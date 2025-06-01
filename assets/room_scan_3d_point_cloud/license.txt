@@ -1,0 +1,11 @@
+Model Information:
+* title:	Room scan 3D point cloud
+* source:	https://sketchfab.com/3d-models/room-scan-3d-point-cloud-a40070a716054773bc39adbe4811e186
+* author:	Scaniverse (https://sketchfab.com/scaniverse)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Room scan 3D point cloud" (https://sketchfab.com/3d-models/room-scan-3d-point-cloud-a40070a716054773bc39adbe4811e186) by Scaniverse (https://sketchfab.com/scaniverse) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

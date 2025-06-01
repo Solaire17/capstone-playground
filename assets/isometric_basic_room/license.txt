@@ -1,0 +1,11 @@
+Model Information:
+* title:	isometric basic room
+* source:	https://sketchfab.com/3d-models/isometric-basic-room-6114dfb507284ba598f31312fc74102d
+* author:	samiwaiba2001 (https://sketchfab.com/samiwaiba2001)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "isometric basic room" (https://sketchfab.com/3d-models/isometric-basic-room-6114dfb507284ba598f31312fc74102d) by samiwaiba2001 (https://sketchfab.com/samiwaiba2001) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
